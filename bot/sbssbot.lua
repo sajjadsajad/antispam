@@ -243,21 +243,11 @@ function create_config( )
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V2 Beta
-    An Advanced Anti Spam Bot Forked On TeleSeed
+    An Advanced Anti Spam Bot Forked On Teleblack
     
     Develpoed By:
-    @sina7sk
-    Manager:
-    @yellowhat
-    Founder:
-    @amirho3in
-    
-    Special Thank To:
-    Mehr Pouya
-    Arman
-    IM/-\N
-    Creed Is Dead
-    
+    @sajjadsajadian
+
 ]],
     help_text_realm = [[
 See Patterns In Github
@@ -343,9 +333,7 @@ _________________________________________
 _________________________________________
 _________________________________________
 _________________________________________
-ليست سودوها :@Cia_00_07
-@sina7sk
-@amirho3in
+
 ]]
   }
   serialize_to_file(config, './data/config.lua')
